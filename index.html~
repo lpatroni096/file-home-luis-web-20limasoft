@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Wisdom Pet Medicine</title>
+  <title>LimaSoft</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
   <link rel="stylesheet" href="css/style.css">
   <script src="js/prefixfree.min.js"></script>
@@ -22,14 +22,15 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="#featured"><h1>Wisdom <span class="subhead">Pet Medicine</span></h1></a>
+        <a class="navbar-brand" href="#featured"><h1>Limasoft </h1></a>
       </div><!-- navbar-header -->
       <div class="collapse navbar-collapse" id="collapse">
         <ul class="nav navbar-nav navbar-right">
           <li class="active"><a href="#featured">Home</a></li>
-          <li><a href="#mission">Mission</a></li>
-          <li><a href="#services">Services</a></li>
-          <li><a href="#staff">Staff</a></li>
+          <li><a href="#Nosotros">Nosotros</a></li>
+          <li><a href="#Servicios">Servicios</a></li>
+<li><a href="#Experiencia">Nuestra Experiencia</a></li>
+          <li><a href="#contactenos">Contactenos</a></li>
           <li><a href="#testimonials">Testimonials</a></li>
         </ul>        
       </div><!-- collapse navbar-collapse -->
@@ -43,11 +44,11 @@
 
     <div class="carousel-inner fullheight">
  
-	<div class="item"><img src="images/seguridad3.jpg" alt="Lifestyle Photo"></div>
-      <div class="item"><img src="images/seguridad5.jpg" alt="Mission"></div>
-      <div class="item"><img src="images/seguridad4.jpg" alt="Vaccinations"></div>
-      <div class="item"><img src="images/hacking.jpg" alt="Fish"></div>
-      <div class="item"><img src="images/web1.jpg" alt="Exotic Animals"></div>      
+	<div class="item"><img src="images/seguridad3.jpg" alt="seguridad3"></div>
+      <div class="item"><img src="images/seguridad2.jpg" alt="Nosotros"></div>
+      <div class="item"><img src="images/seguridad4.jpg" alt="seguridad4"></div>
+      <div class="item"><img src="images/hacking.jpg" alt="hacking"></div>
+      <div class="item"><img src="images/web1.jpg" alt="web1"></div>      
     </div><!-- carousel-inner -->
 
     <a class="left carousel-control" href="#featured" role="button" data-slide="prev">
@@ -60,17 +61,19 @@
 </header>
 
 <div class="main">
-  <div class="page" id="mission">
+  <div class="page" id="Nosotros">
     <div class="content container">
-      <h2>¿Quiénes somos?</h2>      
+      <n><h2>¿Quiénes somos?</h2>      
       <div class="row">
-        <p class="col-md-5 col-md-offset-1">Wisdom Pet Medicine strives to blend the best in traditional and alternative medicine in the diagnosis and treatment of companion animals including dogs, cats, birds, reptiles, rodents, and fish. We apply the wisdom garnered in the centuries old tradition of veterinary medicine, to find the safest treatments and&nbsp;cures.</p>
-        <p class="col-md-5">We strive to be your pet's medical experts from youth through the senior years. We build preventative health care plans for each and every one of our patients, based on breed, age, and sex, so that your pet receives the most appropriate care at crucial milestones. We want to give your pet a long and healthy&nbsp; Perú life.</p>
+        <p class="col-md-5 col-md-offset-1"><n>Limasoft.com es una Empresa formada a fines del año 2004, que mira al futuro con liderazgo y enfoque en el desarrollo de productos de tecnología de la información.
+Tenemos experiencia en el desarrollo de aplicaciones Web, de seguridad informática y Hacking Ético, implementando sistemas de última generación, manteniendo la seguridad de la aplicación tomando en cuenta los Top Ten de OWASP.</p>
+        <p class="col-md-5">Limasoft.com es una Empresa formada a fines del año 2004, que mira al futuro con liderazgo y enfoque en el desarrollo de productos de tecnología de la información.
+Tenemos experiencia en el desarrollo de aplicaciones Web, de seguridad informática y Hacking Ético, implementando sistemas de última generación, manteniendo la seguridad de la aplicación tomando en cuenta los Top Ten de OWASP.</p></n>
       </div><!-- row -->
     </div><!-- content container -->
   </div><!-- mission page -->
 
-  <div class="page" id="services">
+  <div class="page" id="Servicios">
     <div class="content container">
       <h2>Servicios</h2>
       <div class="row">
@@ -113,51 +116,67 @@
     </div><!-- content container -->
   </div><!-- services page -->
 
-  <div class="page" id="staff">
+  <div class="page" id="Experiencia">
     <div class="container-fluid">
-      <h2 id="ourstaff">Our Staff</h2>
+      <n><h2 id="ourstaff">Nuestros Conocimientos</h2>
       <div class="row">
-
-        <div class="doctor col-lg-4">
+       
+        <div class="doctor col-lg-6">
           <div class="row">
             <div class="photo col-xs-6 col-xs-offset-3 col-sm-3 col-sm-offset-1 col-md-2 col-md-offset-2 col-lg-4 col-lg-offset-0">
-              <img class="img-circle" src="images/doctor-winthrop.jpg" alt="Photo of Dr Sanders">
+              <img class="img-circle" src="images/realidad.jpg" alt="Photo of Dr Sanders">
             </div><!-- photo -->
             <div class="info col-xs-8 col-xs-offset-2 col-sm-7 col-sm-offset-0 col-md-6 col-lg-8">
-              <h3>Dr. Winthrop</h3>
-              <p>Dr. Winthrop is the guardian of Missy, a three-year old Llaso mix, who he adopted at the shelter. Dr. Winthrop is passionate about spay and neuter and pet adoption, and works tireless hours outside the clinic, performing free spay and neuter surgeries for the shelter.</p>
+              <h3>Realidad Aumentada</h3>
+              <p>La Realidad Aumentada (RA) es el término para definir una visión directa o indirecta de un entorno físico en el mundo real, cuyos elementos se combinan con elementos virtuales para la creación de una realidad mixta a tiempo real. Consiste en un conjunto de dispositivos que añaden información virtual a la información física ya existente. Esta es la principal diferencia con la realidad virtual, puesto que no sustituye la realidad física, sino que sobreimprime los datos informáticos al mundo real.</p>
             </div><!-- info -->
           </div> <!-- inner row -->
         </div> <!-- doctor -->
 
-        <div class="doctor col-lg-4">
+        <div class="doctor col-lg-6">
           <div class="row">
             <div class="photo col-xs-6 col-xs-offset-3 col-sm-3 col-sm-offset-1 col-md-2 col-md-offset-2 col-lg-4 col-lg-offset-0">
-              <img class="img-circle" src="images/doctor-chase.jpg"  alt="Photo of Dr Sanders">
+              <img class="img-circle" src="images/exp.jpg"  alt="Photo of Dr Sanders">
             </div><!-- photo -->
-            <div class="info col-xs-8 col-xs-offset-2 col-sm-7 col-sm-offset-0 col-md-6 col-lg-8">
-              <h3>Dr. Chase</h3>
-              <p>Dr. Chase spends much of her free time helping the local rescue organization find homes for animals, such as Kibbles - a Maine Coon Cat who is part of the large Chase household, including two dogs, three cats, and a turtle.</p>
+            <div class="info col-xs-8 col-xs-offset-2 col-sm-9 col-sm-offset-0 col-md-6 col-lg-8">
+              <h3>Nuestra Experiencia</h3>
+              <p>LimaSoft  dentro  de  su preocupación  por  mantener  la  seguridad  dentro de los Bancos y Comercios Electrónicos apoya a la Asociación de Bancos  del  Perú  para  el caso  de  análisis  de  Malware  de  manera  gratuita. El resultado del análisis  es  remitido  a  las  siguientes  Instituciones Financieras:  Banco  Continental, Interbank, Banco  de  Crédito,  Banco Financiero,  Scotiabank, Banco de la Nación, Banco  de  Comercio  y  a  la Asociación  de  Bancos del Perú ASBANC.</p></n>
             </div><!-- info -->
           </div> <!-- inner row -->
         </div> <!-- doctor -->
 
-        <div class="doctor col-lg-4">
-          <div class="row">
-            <div class="photo col-xs-6 col-xs-offset-3 col-sm-3 col-sm-offset-1 col-md-2 col-md-offset-2 col-lg-4 col-lg-offset-0">
-              <img class="img-circle" src="images/doctor-sanders.jpg" alt="Photo of Dr Sanders">
-            </div><!-- photo -->
-            <div class="info col-xs-8 col-xs-offset-2 col-sm-7 col-sm-offset-0 col-md-6 col-lg-8">
-              <h3>Dr Sanders</h3>
-             <p>Leroy walked into Dr. Sanders front door when he was moving into a new house. After searching for weeks for Leroy's guardians, he decided to make Leroy a part of his pet family, and now has three cats.</p>
-            </div><!-- info -->
-          </div> <!-- inner row -->
-        </div> <!-- doctor -->
+        
 
 
       </div><!-- outer row -->
     </div><!-- container -->
   </div><!-- staff page -->
+  <div class="page" id="contactenos">
+    <div class="content container">
+      <h2>Contactenos</h2>
+      <div class="row">
+        <article class="service col-md-4 col-sm-6 col-xs-12">
+          <img class="icon" src="images/web.svg" alt="Icon">
+          <h3>Email:</h3>
+          <p> limasoft@limasoft.com</p>
+        </article>
+
+
+        <article class="service col-md-4 col-sm-6 col-xs-12">
+          <img class="icon" src="images/arrows.svg" alt="Icon">
+          <h3> Dirección:</h3>
+          <p>Av. San Luis 2113 of. 401 – San Borja, Lima, Perú.</p>
+        </article>
+
+        <article class="service col-md-4 col-sm-6 col-xs-12">
+          <img class="icon" src="images/telephone.svg" alt="Icon">
+          <h3>Celular</h3>
+          <p>+(51)-989288742</p>
+        </article>   
+      </div><!-- row -->   
+    </div><!-- content container -->
+  </div><!-- services page -->
+
 
   <div class="page" id="testimonials">
     <div class="container-fluid">
@@ -165,8 +184,34 @@
       <div class="row">
         <blockquote class="col-md-6 col-lg-3" id="janeh">
           <div class="quote">
-            <span class="intro">During the summer, our rabbit, Tonto, began to have severe redness</span>
-            <span class="more"> and itching on his belly and feet. Through diagnostic testing, we learned that Tonto is severely allergic to over a dozens kinds of grass pollens. We've now been doing allergy injections for several months, and his itching and redness have nearly gone away. I'm very thankful to the veterinarians and staff at Wisdom for the excellent care Tonto received, and for nipping his allergies in the bud, so to speak.</span>
+            <span class="intro">El servicio de auditoría está orientado a la evaluación de seguridad en las aplicaciones web de su organización.</span>
+            <span class="more">Contamos con un equipo de auditores con amplia experiencia en desarrollo y seguridad informática, quienes están en capacidad de comprobar vulnerabilidades como:
+
+Inyección de código SQL
+
+Cross-site-scripting
+
+Ejecución de comandos
+
+Fuerza bruta
+
+Autentificación y autorización deficientes
+
+Buffer Overruns and Overflows
+
+Inyección OS
+
+Validación de Datos
+
+XSS
+
+Cross­Site Request Forgery
+
+Gestión de autenticación
+
+Integridad de sesiones
+
+Condiciones de ejecución</span>
             <span class="customer">Jane H.</span>
           </div>
         </blockquote>
